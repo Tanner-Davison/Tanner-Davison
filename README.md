@@ -42,7 +42,9 @@ Here are some ideas to get you started:
 
 </div>
 
-<object src="https://img.shields.io/badge/full--stack_developer:-vasion/printerlogic-5B3D8E" alt="Static Badge"/>
+<object data="https://img.shields.io/badge/full--stack_developer:-vasion/printerlogic-5B3D8E" type="image/svg+xml" width="auto" height="auto">
+  <img src="https://img.shields.io/badge/full--stack_developer:-vasion/printerlogic-5B3D8E" alt="Static Badge" width="auto" height="auto">
+</object>
 
 
 
