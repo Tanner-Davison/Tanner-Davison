@@ -27,7 +27,7 @@ Here are some ideas to get you started:
     <img src="https://avatars.githubusercontent.com/u/146381912?s=200&v=4" alt="Vasion" width="30" height="30">
   </a>
   <a href="https://www.crunchbase.com/organization/printerlogic">
-    <img src="https://avatars.githubusercontent.com/u/146381912?s=200&v=4" alt="PrinterLogic" width="30" height="30">
+    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fcompany%2Fprinterlogic&psig=AOvVaw1cgekE4UpQ3D23CB-1E8Pk&ust=1724712940746000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPDemcyekYgDFQAAAAAdAAAAABAJ)" alt="PrinterLogic" width="30" height="30">
   </a>
 </div>
 
