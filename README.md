@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/organization">
   <img src="https://avatars.githubusercontent.com/u/146381912?s=200&v=4" alt="Vasion" width="30" height="30">
 </a>
-```markdown
+
 ![Static Badge](https://img.shields.io/badge/Employee-Vasion%2FPrinterLogic-5B3D8E)
 
 
