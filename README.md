@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Stats   ----             [![Generate Stats Images](https://github.com/jstrieb/github-stats/actions/workflows/main.yml/badge.svg)](https://github.com/jstrieb/github-stats/actions/workflows/main.yml)
+## Stats   &nbsp&nbsp&nbsp&nbsp        [![Generate Stats Images](https://github.com/jstrieb/github-stats/actions/workflows/main.yml/badge.svg)](https://github.com/jstrieb/github-stats/actions/workflows/main.yml)
 
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tanner-Davison&show_icons=true&theme=highcontrast&hide_rank=true&hide=contribs)
