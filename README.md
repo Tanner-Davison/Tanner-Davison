@@ -21,12 +21,14 @@ Here are some ideas to get you started:
 [![GitHub Streak](https://streak-stats.demolab.com?user=Tanner-Davison&theme=highcontrast&border_radius=8)](https://git.io/streak-stats)
 [![Generate Stats Images](https://github.com/jstrieb/github-stats/actions/workflows/main.yml/badge.svg)](https://github.com/jstrieb/github-stats/actions/workflows/main.yml)
 ## Organizations
+<div>
+  
 <a href="https://github.com/organization">
   <img src="https://avatars.githubusercontent.com/u/146381912?s=200&v=4" alt="Vasion" width="30" height="30">
 </a>
 
 ![Static Badge](https://img.shields.io/badge/Employee-Vasion%2FPrinterLogic-5B3D8E)
-
+</div>
 
 
 <!--END_SECTION:waka-->
