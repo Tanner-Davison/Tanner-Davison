@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 [![Generate Stats Images](https://github.com/jstrieb/github-stats/actions/workflows/main.yml/badge.svg)](https://github.com/jstrieb/github-stats/actions/workflows/main.yml)
 ## Organizations
 [![Vasion](https://avatars.githubusercontent.com/u/146381912?s=200&v=4)]([https://github.com/organization](https://github.com/vasion-marketing))
-https://img.shields.io/badge/Employee-Vasion%2FPrinterLogic-5B3D8E
+![Static Badge](https://img.shields.io/badge/Employee-Vasion%2FPrinterLogic-5B3D8E)
+
 
 <!--END_SECTION:waka-->
