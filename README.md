@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tanner-Davison&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanner-Davison&size_weight=0.5&count_weight=0.5l&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanner-Davison&size_weight=0.5&count_weight=0.5l)
