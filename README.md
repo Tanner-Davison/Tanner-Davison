@@ -23,10 +23,11 @@ Here are some ideas to get you started:
 ## Organizations
 <div style="display: flex; align-items: center;">
   <a href="https://github.com/organization">
-    <img src="https://avatars.githubusercontent.com/u/146381912?s=200&v=4" alt="Vasion" width="30" height="30" style="margin-right: 100px;">
+    <img src="https://avatars.githubusercontent.com/u/146381912?s=200&v=4" alt="Vasion" width="30" height="30" style="margin-right: 10px;">
   </a>
   <img src="https://img.shields.io/badge/Employee-Vasion%2FPrinterLogic-5B3D8E" alt="Static Badge">
 </div>
+
 
 
 <!--END_SECTION:waka-->
