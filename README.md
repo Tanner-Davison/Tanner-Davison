@@ -34,9 +34,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Employee-Vasion%2FPrinterLogic-5B3D8E" alt="Static Badge">
 
 
-<img src="https://img.shields.io/badge/Employee-Vasion%2FPrinterLogic-5B3D8E" alt="Static Badge">
-
-
 
 
 
