@@ -3,7 +3,8 @@
 As a **Fullstack Developer** at Vasion, my days are a dynamic mix of creativity and technical problem-solving:
 
 - 🛠️ **Frontend:** Crafting engaging user interfaces with [React Gatsby](https://www.gatsbyjs.com)
-- 🔧 **Backend:** Integrating our [CMS](https://example.com) and handling server-side logic and database interactions
+- 🔧 **Backend:** Integrating  [CMS](https://datocms.com) and handling server-side logic and database interactions
+- 🔄 **Migration:** Transitioning from [WordPress](https://wordpress.org) to [DatoCMS](https://www.datocms.com)
 
 Staying current with industry trends and exploring new tools is a constant part of my routine:
 
