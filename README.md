@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tanner-Davison&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanner-Davison&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tanner-Davison&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
