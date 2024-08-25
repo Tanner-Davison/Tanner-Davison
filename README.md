@@ -17,10 +17,11 @@ Here are some ideas to get you started:
 
 ## Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tanner-Davison&show_icons=true&theme=highcontrast&hide_rank=true&hide=contribs)
+[![Generate Stats Images](https://github.com/jstrieb/github-stats/actions/workflows/main.yml/badge.svg)](https://github.com/jstrieb/github-stats/actions/workflows/main.yml)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanner-Davison&layout=compact&theme=highcontrast)
 [![GitHub Streak](https://streak-stats.demolab.com?user=Tanner-Davison&theme=highcontrast&border_radius=8)](https://git.io/streak-stats)
-[![Generate Stats Images](https://github.com/jstrieb/github-stats/actions/workflows/main.yml/badge.svg)](https://github.com/jstrieb/github-stats/actions/workflows/main.yml)
+
 ## Organizations
 
 <div style="display: flex; align-items: center;">
