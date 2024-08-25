@@ -1,8 +1,16 @@
 ## About me👋
 
-As a Fullstack Developer at Vasion, my days are a dynamic mix of creativity and technical problem-solving. I start by reviewing project updates and collaborating with my team to fine-tune requirements. My front-end work involves crafting engaging user interfaces using React Gatsby, while on the back end, I focus on integrating our CMS and handling server-side logic and database interactions.
+As a **Fullstack Developer** at Vasion, my days are a dynamic mix of creativity and technical problem-solving:
 
-Staying current with industry trends and exploring new tools is a constant part of my routine. I use CLion and Visual Studio to delve into C++ and low-level programming, and my evenings often include tinkering with Arduino projects. Balancing my professional responsibilities with personal growth, I thrive in the ever-evolving field of web development, always looking to push the boundaries of what’s possible.
+- 🛠️ **Frontend:** Crafting engaging user interfaces with [React Gatsby](https://www.gatsbyjs.com)
+- 🔧 **Backend:** Integrating our [CMS](https://example.com) and handling server-side logic and database interactions
+
+Staying current with industry trends and exploring new tools is a constant part of my routine:
+
+- 💻 **Tools:** Using [CLion](https://www.jetbrains.com/clion/) and [Visual Studio](https://visualstudio.microsoft.com) for C++ and low-level programming
+- 🚀 **Hobbies:** Tinkering with [Arduino](https://www.arduino.cc) and working on personal projects
+
+Balancing professional responsibilities with personal growth, I thrive in the ever-evolving field of web development, always looking to push the boundaries of what’s possible.
 <!--
 **Tanner-Davison/Tanner-Davison** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
