@@ -25,8 +25,8 @@ Here are some ideas to get you started:
   <a href="https://vasion.com">
     <img src="https://avatars.githubusercontent.com/u/146381912?s=200&v=4" alt="Vasion" width="30" height="30">
   </a>
-  <img src="[https://img.shields.io/badge/Employee-Vasion%2FPrinterLogic-5B3D8E](https://img.shields.io/badge/Employee-Vasion%2FPrinterLogic-5B3D8E
-)" alt="Static Badge">
+  <img src="https://img.shields.io/badge/Employee-Vasion%2FPrinterLogic-5B3D8E
+" alt="Static Badge">
 </div>
 
 
