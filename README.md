@@ -53,90 +53,75 @@ Here are some ideas to get you started:
  
 [![GitHub Streak](https://streak-stats.demolab.com?user=Tanner-Davison&theme=highcontrast&border_radius=8)](https://git.io/streak-stats) <img src="https://github-readme-stats.vercel.app/api?username=Tanner-Davison&show_icons=true&theme=highcontrast&hide_rank=true&hide=contribs" alt="Your GitHub Stats" /> 
 
-<table>
-  <tr>
-    <td style="vertical-align: top;">
-      <h3>Programming Languages</h3>
-      <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-        <!-- C -->
-        <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/c.svg" width="50" height="50" alt="C">
-        <!-- C++ -->
-        <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/c%2B%2B.svg" width="50" height="50" alt="C++">
-        <!-- Python -->
-        <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/python.svg" width="50" height="50" alt="Python">
-        <!-- Java -->
-        <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/java.svg" width="50" height="50" alt="Java">
-        <!-- JavaScript -->
-        <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/javascript.svg" width="50" height="50" alt="JavaScript">
-        <!-- TypeScript -->
-        <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/typescript.svg" width="50" height="50" alt="TypeScript">
-      </div>
-    </td>
-  <tr>
-    <td style="vertical-align: top;">
-      <h3>JavaScript Frameworks</h3>
-      <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-        <!-- React -->
-        <img src="https://avatars.githubusercontent.com/u/6412038?s=200&v=4" width="50" height="50" alt="React">
-        <!-- Gatsby -->
-        <img src="https://avatars.githubusercontent.com/u/12551863?s=200&v=4" width="50" height="50" alt="Gatsby">
-        <!-- Next.js -->
-        <img src="https://camo.githubusercontent.com/9771a2d4a7366d3c6d4793e17104eba9e88f0aec82f7165bfe6871455c26cb2c/68747470733a2f2f6173736574732e76657263656c2e636f6d2f696d6167652f75706c6f61642f76313636323133303535392f6e6578746a732f49636f6e5f6461726b5f6261636b67726f756e642e706e67" width="50" height="50" alt="Next.js">
-      </div>
-    </td>
-    <td style="vertical-align: top;">
-      <h3>CMS</h3>
-      <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-        <!-- WordPress -->
-        <img src="https://camo.githubusercontent.com/7218b2c57d64f068ef9c44bbefd49aef42b817912a7bffdcf303152cea28a7cf/68747470733a2f2f662e636c6f75642e6769746875622e636f6d2f6173736574732f313833353939372f3739353130332f36333964303366322d656364642d313165322d383561362d6132623562316262613065382e706e67" width="50" height="50" alt="WordPress">
-        <!-- DatoCMS -->
-        <img src="https://avatars.githubusercontent.com/u/19649794?s=200&v=4" width="50" height="50" alt="DatoCMS">
-        <!-- Contentful -->
-        <img src="https://avatars.githubusercontent.com/u/472182?s=200&v=4" width="50" height="50" alt="Contentful">
-      </div>
-    </td>
-  </tr>
-</table>
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <!-- C -->
+  <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/c.svg" width="40" height="40" alt="C">
+  <!-- C++ -->
+  <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/c%2B%2B.svg" width="40" height="40" alt="C++">
+  <!-- Python -->
+  <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/python.svg" width="40" height="40" alt="Python">
+  <!-- Java -->
+  <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/java.svg" width="40" height="40" alt="Java">
+  <!-- JavaScript -->
+  <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/javascript.svg" width="40" height="40" alt="JavaScript">
+  <!-- TypeScript -->
+  <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/typescript.svg" width="40" height="40" alt="TypeScript">
+</div>
 
+## FrontEnd
 
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <!-- JavaScript -->
+  <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/javascript.svg" width="40" height="40" alt="JavaScript">
+  <!-- HTML5 -->
+  <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/social%20icons/html5.svg" width="40" height="40" alt="HTML5">
+  <!-- CSS3 -->
+  <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/social%20icons/css3.svg" width="40" height="40" alt="CSS3">
+</div>
 
-<table style="width: 100%; border-collapse: collapse;">
-  <tr>
-    <td style="vertical-align: top; padding: 10px; border: 1px solid #ddd;">
-      <h3>FrontEnd</h3>
-      <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-        <!-- JavaScript -->
-        <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/javascript.svg" width="50" height="50" alt="JavaScript">
-        <!-- HTML5 -->
-        <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/social%20icons/html5.svg" width="50" height="50" alt="HTML5">
-        <!-- CSS3 -->
-        <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/social%20icons/css3.svg" width="50" height="50" alt="CSS3">
-      </div>
-    </td>
-    <td style="vertical-align: top; padding: 10px; border: 1px solid #ddd;">
-      <h3>Backend</h3>
-      <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-        <!-- Node.js -->
-        <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/frameworks/nodejs.svg" width="50" height="50" alt="Node.js">
-        <!-- JavaScript -->
-        <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/javascript.svg" width="50" height="50" alt="JavaScript">
-      </div>
-    </td>
-    <td style="vertical-align: top; padding: 10px; border: 1px solid #ddd;">
-      <h3>Database</h3>
-      <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-        <!-- MongoDB -->
-        <img src="https://avatars.githubusercontent.com/u/45120?s=200&v=4" width="50" height="50" alt="MongoDB">
-        <!-- SQL -->
-        <img src="https://user-images.githubusercontent.com/40461634/114240226-2f506580-9955-11eb-849b-e2a25117d681.png" width="50" height="50" alt="SQL">
-        <!-- PostgreSQL -->
-        <img src="https://user-images.githubusercontent.com/24623425/36042969-f87531d4-0d8a-11e8-9dee-e87ab8c6a9e3.png" width="50" height="50" alt="PostgreSQL">
-        <!-- Firebase -->
-        <img src="https://avatars.githubusercontent.com/u/1335026?s=200&v=4" width="50" height="50" alt="Firebase">
-      </div>
-    </td>
-  </tr>
-</table>
+## Backend
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <!-- Node.js -->
+  <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/frameworks/nodejs.svg" width="40" height="40" alt="Node.js">
+  <!-- JavaScript -->
+  <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/javascript.svg" width="40" height="40" alt="JavaScript">
+</div>
+
+## Database
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <!-- MongoDB -->
+  <img src="https://avatars.githubusercontent.com/u/45120?s=200&v=4" width="40" height="40" alt="MongoDB">
+  <!-- SQL -->
+  <img src="https://user-images.githubusercontent.com/40461634/114240226-2f506580-9955-11eb-849b-e2a25117d681.png" width="40" height="40" alt="SQL">
+  <!-- PostgreSQL -->
+  <img src="https://user-images.githubusercontent.com/24623425/36042969-f87531d4-0d8a-11e8-9dee-e87ab8c6a9e3.png" width="40" height="40" alt="PostgreSQL">
+  <!-- Firebase -->
+  <img src="https://avatars.githubusercontent.com/u/1335026?s=200&v=4" width="40" height="40" alt="Firebase">
+</div>
+
+## JavaScript Frameworks
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <!-- React -->
+  <img src="https://avatars.githubusercontent.com/u/6412038?s=200&v=4" width="40" height="40" alt="React">
+  <!-- Gatsby -->
+  <img src="https://avatars.githubusercontent.com/u/12551863?s=200&v=4" width="40" height="40" alt="Gatsby">
+  <!-- Next.js -->
+  <img src="https://camo.githubusercontent.com/9771a2d4a7366d3c6d4793e17104eba9e88f0aec82f7165bfe6871455c26cb2c/68747470733a2f2f6173736574732e76657263656c2e636f6d2f696d6167652f75706c6f61642f76313636323133303535392f6e6578746a732f49636f6e5f6461726b5f6261636b67726f756e642e706e67" width="40" height="40" alt="Next.js">
+</div>
+
+## CMS
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <!-- WordPress -->
+  <img src="https://camo.githubusercontent.com/7218b2c57d64f068ef9c44bbefd49aef42b817912a7bffdcf303152cea28a7cf/68747470733a2f2f662e636c6f75642e6769746875622e636f6d2f6173736574732f313833353939372f3739353130332f36333964303366322d656364642d313165322d383561362d6132623562316262613065382e706e67" width="40" height="40" alt="WordPress">
+  <!-- DatoCMS -->
+  <img src="https://avatars.githubusercontent.com/u/19649794?s=200&v=4" width="40" height="40" alt="DatoCMS">
+  <!-- Contentful -->
+  <img src="https://avatars.githubusercontent.com/u/472182?s=200&v=4" width="40" height="40" alt="Contentful">
+</div>
 
 
 
