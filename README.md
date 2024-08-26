@@ -96,6 +96,8 @@ Balancing professional responsibilities with personal growth, I thrive in the ev
    <img src="https://camo.githubusercontent.com/df6cbdb702b1f6b51f73bddd89685051408262cb0a93ef87076f8b913e1d2219/68747470733a2f2f736e617077656273697465732e6f72672f73697465732f736e617077656273697465732e6f72672f66696c65732f696d616765732f636d616b655f6c6f676f5f736c696465722e706e67" width="40" height="40" alt="CMAKE">
   <!-- GSAP -->
   <img src="https://avatars.githubusercontent.com/u/2386673?s=200&v=4" width="40" height="40" alt="GSAP">
+  <!--Unreal Engine 5 -->
+  <img src="https://user-images.githubusercontent.com/61319844/156958933-738422d2-8137-4652-9b71-2cb079b31722.png" width="40" height="40" alt="UE5">
 </div>
 
 ## CMS
