@@ -15,7 +15,7 @@ Balancing professional responsibilities with personal growth, I thrive in the ev
 
 ## Current Organizations
 <div style="display: flex; align-items: center; ">
-  <a href="https://github.com/organization" style="margin-right:15px;">
+  <a href="https://github.com/organization" style="margin-right:15px; width:fit-content"; height:fit-content;>
     <img src="https://avatars.githubusercontent.com/u/146381912?s=200&v=4" alt="Vasion" width="40" height="40" style="border-radius:10%; margin-right: 10px;">
   </a>
   <a href="https://www.linkedin.com/company/printerlogic" style="text-decoration: none !important; color: transparent;">
