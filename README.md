@@ -31,8 +31,8 @@ Balancing professional responsibilities with personal growth, I thrive in the ev
   <img src="https://yt3.googleusercontent.com/s4pwxp5c2n-jMytCDPeNST5Cgd-LkPztvhZLuR2Z9zVQ2LPURTeG3bjAv4vq9xeAIOOXU7Zd=s160-c-k-c0x00ffffff-no-rj" alt="Additional Logo" width="40" height="40" style="border-radius:10%">
 </a>
 </div>
-<!--
-**Tanner-Davison/Tanner-Davison** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<!--**Tanner-Davison/Tanner-Davison** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
