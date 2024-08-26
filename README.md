@@ -53,27 +53,9 @@ Here are some ideas to get you started:
  
 [![GitHub Streak](https://streak-stats.demolab.com?user=Tanner-Davison&theme=highcontrast&border_radius=8)](https://git.io/streak-stats) <img src="https://github-readme-stats.vercel.app/api?username=Tanner-Davison&show_icons=true&theme=highcontrast&hide_rank=true&hide=contribs" alt="Your GitHub Stats" /> 
 
-
-<table>
+<table style="width: 100%; border-collapse: collapse;">
   <tr>
-    <td style="vertical-align: top;">
-      <h3>Programming Languages</h3>
-      <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-        <!-- C -->
-        <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/c.svg" width="50" height="50" alt="C">
-        <!-- C++ -->
-        <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/c%2B%2B.svg" width="50" height="50" alt="C++">
-        <!-- Python -->
-        <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/python.svg" width="50" height="50" alt="Python">
-        <!-- Java -->
-        <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/java.svg" width="50" height="50" alt="Java">
-        <!-- JavaScript -->
-        <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/javascript.svg" width="50" height="50" alt="JavaScript">
-        <!-- TypeScript -->
-        <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/typescript.svg" width="50" height="50" alt="TypeScript">
-      </div>
-    </td>
-    <td style="vertical-align: top;">
+    <td style="vertical-align: top; padding: 10px; border: 1px solid #ddd;">
       <h3>FrontEnd</h3>
       <div style="display: flex; flex-wrap: wrap; gap: 10px;">
         <!-- JavaScript -->
@@ -83,6 +65,8 @@ Here are some ideas to get you started:
         <!-- CSS3 -->
         <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/social%20icons/css3.svg" width="50" height="50" alt="CSS3">
       </div>
+    </td>
+    <td style="vertical-align: top; padding: 10px; border: 1px solid #ddd;">
       <h3>Backend</h3>
       <div style="display: flex; flex-wrap: wrap; gap: 10px;">
         <!-- Node.js -->
@@ -90,6 +74,8 @@ Here are some ideas to get you started:
         <!-- JavaScript -->
         <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/javascript.svg" width="50" height="50" alt="JavaScript">
       </div>
+    </td>
+    <td style="vertical-align: top; padding: 10px; border: 1px solid #ddd;">
       <h3>Database</h3>
       <div style="display: flex; flex-wrap: wrap; gap: 10px;">
         <!-- MongoDB -->
@@ -103,31 +89,8 @@ Here are some ideas to get you started:
       </div>
     </td>
   </tr>
-  <tr>
-    <td style="vertical-align: top;">
-      <h3>JavaScript Frameworks</h3>
-      <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-        <!-- React -->
-        <img src="https://avatars.githubusercontent.com/u/6412038?s=200&v=4" width="50" height="50" alt="React">
-        <!-- Gatsby -->
-        <img src="https://avatars.githubusercontent.com/u/12551863?s=200&v=4" width="50" height="50" alt="Gatsby">
-        <!-- Next.js -->
-        <img src="https://camo.githubusercontent.com/9771a2d4a7366d3c6d4793e17104eba9e88f0aec82f7165bfe6871455c26cb2c/68747470733a2f2f6173736574732e76657263656c2e636f6d2f696d6167652f75706c6f61642f76313636323133303535392f6e6578746a732f49636f6e5f6461726b5f6261636b67726f756e642e706e67" width="50" height="50" alt="Next.js">
-      </div>
-    </td>
-    <td style="vertical-align: top;">
-      <h3>CMS</h3>
-      <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-        <!-- WordPress -->
-        <img src="https://camo.githubusercontent.com/7218b2c57d64f068ef9c44bbefd49aef42b817912a7bffdcf303152cea28a7cf/68747470733a2f2f662e636c6f75642e6769746875622e636f6d2f6173736574732f313833353939372f3739353130332f36333964303366322d656364642d313165322d383561362d6132623562316262613065382e706e67" width="50" height="50" alt="WordPress">
-        <!-- DatoCMS -->
-        <img src="https://avatars.githubusercontent.com/u/19649794?s=200&v=4" width="50" height="50" alt="DatoCMS">
-        <!-- Contentful -->
-        <img src="https://avatars.githubusercontent.com/u/472182?s=200&v=4" width="50" height="50" alt="Contentful">
-      </div>
-    </td>
-  </tr>
 </table>
+
 
 
 
