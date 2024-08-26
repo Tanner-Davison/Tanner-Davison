@@ -1,5 +1,9 @@
 ## About me👋
-
+<a href="https://vasion.com/careers" target="_blank">
+  <object data="https://img.shields.io/badge/full--stack_developer:-vasion/printerlogic-5B3D8E" type="image/svg+xml" width="auto" height="auto">
+    <img src="https://img.shields.io/badge/full--stack_developer:-vasion/printerlogic-5B3D8E" alt="Static Badge" width="auto" height="auto">
+  </object>
+</a>
 As a **Fullstack Developer** at Vasion, my days are a dynamic mix of creativity and technical problem-solving:
 
 - 🛠️ **Frontend:** Crafting engaging user interfaces with [React Gatsby](https://www.gatsbyjs.com)
@@ -126,11 +130,7 @@ Here are some ideas to get you started:
 
 </div>
 
-<a href="https://vasion.com/careers" target="_blank">
-  <object data="https://img.shields.io/badge/full--stack_developer:-vasion/printerlogic-5B3D8E" type="image/svg+xml" width="auto" height="auto">
-    <img src="https://img.shields.io/badge/full--stack_developer:-vasion/printerlogic-5B3D8E" alt="Static Badge" width="auto" height="auto">
-  </object>
-</a>
+
 
 
 
