@@ -83,6 +83,7 @@ Here are some ideas to get you started:
         <!-- CSS3 -->
         <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/social%20icons/css3.svg" width="50" height="50" alt="CSS3">
       </div>
+
       <h3>Backend</h3>
       <div style="display: flex; flex-wrap: wrap; gap: 10px;">
         <!-- Node.js -->
@@ -90,6 +91,7 @@ Here are some ideas to get you started:
         <!-- JavaScript -->
         <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/javascript.svg" width="50" height="50" alt="JavaScript">
       </div>
+
       <h3>Database</h3>
       <div style="display: flex; flex-wrap: wrap; gap: 10px;">
         <!-- MongoDB -->
