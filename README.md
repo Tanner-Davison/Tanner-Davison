@@ -5,7 +5,7 @@
     <img src="https://img.shields.io/badge/full--stack_developer:-vasion/printerlogic-5B3D8E" alt="Static Badge" width="auto" height="auto">
   </object>
 </a>
-<br>
+<br/>
 
 As a **Fullstack Developer** at Vasion, my days are a dynamic mix of creativity and technical problem-solving:
 
