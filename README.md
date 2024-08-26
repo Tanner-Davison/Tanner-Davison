@@ -95,7 +95,7 @@ Balancing professional responsibilities with personal growth, I thrive in the ev
   <!-- GSAP -->
   <img src="https://avatars.githubusercontent.com/u/2386673?s=200&v=4" width="40" height="40" alt="GSAP">
   <!--Unreal Engine 5 -->
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUf3R8LFTgqC_8mooGEx7Fpas9kHu8OUxhLA&s" width="40" height="40" alt="UE5">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUf3R8LFTgqC_8mooGEx7Fpas9kHu8OUxhLA&s" width="40" height="40" alt="UE5" style="padding: 150px">
 </div>
 
 ## CMS
