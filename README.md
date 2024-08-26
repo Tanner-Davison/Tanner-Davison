@@ -35,7 +35,6 @@ Here are some ideas to get you started:
 
 
 ## Programming Languages
-
 <!-- C -->
 <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/c.svg" width="50" height="50" alt="C">
 <!-- C++ -->
@@ -64,7 +63,6 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/javascript.svg" width="50" height="50" alt="JavaScript">
 
 ## Database
-
 <!-- MongoDB -->
 <img src="https://avatars.githubusercontent.com/u/45120?s=200&v=4" width="50" height="50" alt="MongoDB">
 <!-- SQL -->
@@ -89,6 +87,7 @@ Here are some ideas to get you started:
 <img src="https://avatars.githubusercontent.com/u/19649794?s=200&v=4" width="50" height="50" alt="DatoCMS">
 <!-- Contentful -->
 <img src="https://avatars.githubusercontent.com/u/472182?s=200&v=4" width="50" height="50" alt="Contentful">
+
 
 
 ## Organizations
