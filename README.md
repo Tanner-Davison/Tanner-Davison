@@ -1,6 +1,6 @@
 ## About me👋
 
-<a href="https://vasion.com/careers" target="_blank" style="padding-bottom:'50px'">
+<a href="https://vasion.com/careers" target="_blank" style="padding-bottom:10%">
   <object data="https://img.shields.io/badge/full--stack_developer:-vasion/printerlogic-5B3D8E" type="image/svg+xml" width="auto" height="auto">
     <img src="https://img.shields.io/badge/full--stack_developer:-vasion/printerlogic-5B3D8E" alt="Static Badge" width="auto" height="auto">
   </object>
