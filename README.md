@@ -53,6 +53,8 @@ Here are some ideas to get you started:
  
 [![GitHub Streak](https://streak-stats.demolab.com?user=Tanner-Davison&theme=highcontrast&border_radius=8)](https://git.io/streak-stats) <img src="https://github-readme-stats.vercel.app/api?username=Tanner-Davison&show_icons=true&theme=highcontrast&hide_rank=true&hide=contribs" alt="Your GitHub Stats" /> 
 
+## Programming Languages
+
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <!-- C -->
   <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/c.svg" width="40" height="40" alt="C">
