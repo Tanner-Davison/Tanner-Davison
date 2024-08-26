@@ -33,39 +33,6 @@ Here are some ideas to get you started:
  
 [![GitHub Streak](https://streak-stats.demolab.com?user=Tanner-Davison&theme=highcontrast&border_radius=8)](https://git.io/streak-stats) <img src="https://github-readme-stats.vercel.app/api?username=Tanner-Davison&show_icons=true&theme=highcontrast&hide_rank=true&hide=contribs" alt="Your GitHub Stats" /> 
 
-## Programming Languages
-- **C**: ![C](https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/c.svg =50x50)
-- **C++**: ![C++](https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/c%2B%2B.svg =50x50)
-- **Python**: ![Python](https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/python.svg =50x50)
-- **Java**: ![Java](https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/java.svg =50x50)
-- **JavaScript**: ![JavaScript](https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/javascript.svg =50x50)
-- **TypeScript**: ![TypeScript](https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/typescript.svg =50x50)
-
-## Frontend
-- **JavaScript**: ![JavaScript](https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/javascript.svg =50x50)
-- **HTML5**: ![HTML5](https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/social%20icons/html5.svg =50x50)
-- **CSS3**: ![CSS3](https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/social%20icons/css3.svg =50x50)
-
-## Backend
-- **Node.js**: ![Node.js](https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/frameworks/nodejs.svg =50x50)
-- **JavaScript**: ![JavaScript](https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/javascript.svg =50x50)
-
-## Database
-- **MongoDB**: ![MongoDB](https://avatars.githubusercontent.com/u/45120?s=200&v=4 =50x50)
-- **SQL**: ![SQL](https://user-images.githubusercontent.com/40461634/114240226-2f506580-9955-11eb-849b-e2a25117d681.png =50x50)
-- **PostgreSQL**: ![PostgreSQL](https://user-images.githubusercontent.com/24623425/36042969-f87531d4-0d8a-11e8-9dee-e87ab8c6a9e3.png =50x50)
-- **Firebase**: ![Firebase](https://avatars.githubusercontent.com/u/1335026?s=200&v=4 =50x50)
-
-## JavaScript Frameworks
-- **React**: ![React](https://avatars.githubusercontent.com/u/6412038?s=200&v=4 =50x50)
-- **Gatsby**: ![Gatsby](https://avatars.githubusercontent.com/u/12551863?s=200&v=4 =50x50)
-- **Next.js**: ![Next.js](https://camo.githubusercontent.com/9771a2d4a7366d3c6d4793e17104eba9e88f0aec82f7165bfe6871455c26cb2c/68747470733a2f2f6173736574732e76657263656c2e636f6d2f696d6167652f75706c6f61642f76313636323133303535392f6e6578746a732f49636f6e5f6461726b5f6261636b67726f756e642e706e67 =50x50)
-
-## CMS
-- **WordPress**: ![WordPress](https://camo.githubusercontent.com/7218b2c57d64f068ef9c44bbefd49aef42b817912a7bffdcf303152cea28a7cf/68747470733a2f2f662e636c6f75642e6769746875622e636f6d2f6173736574732f313833353939372f3739353130332f36333964303366322d656364642d313165322d383561362d6132623562316262613065382e706e67 =50x50)
-- **DatoCMS**: ![DatoCMS](https://avatars.githubusercontent.com/u/19649794?s=200&v=4 =50x50)
-- **Contentful**: ![Contentful](https://avatars.githubusercontent.com/u/472182?s=200&v=4 =50x50)
-
 
 
 
