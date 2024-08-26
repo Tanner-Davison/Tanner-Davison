@@ -54,7 +54,6 @@ Here are some ideas to get you started:
 [![GitHub Streak](https://streak-stats.demolab.com?user=Tanner-Davison&theme=highcontrast&border_radius=8)](https://git.io/streak-stats) <img src="https://github-readme-stats.vercel.app/api?username=Tanner-Davison&show_icons=true&theme=highcontrast&hide_rank=true&hide=contribs" alt="Your GitHub Stats" /> 
 
 ## Programming Languages
-
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <!-- C -->
   <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/c.svg" width="40" height="40" alt="C">
@@ -70,8 +69,7 @@ Here are some ideas to get you started:
   <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/typescript.svg" width="40" height="40" alt="TypeScript">
 </div>
 
-## &nbsp; &nbsp;&nbsp;&nbsp; FrontEnd
-
+##FrontEnd
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <!-- JavaScript -->
   <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/javascript.svg" width="40" height="40" alt="JavaScript">
@@ -82,7 +80,6 @@ Here are some ideas to get you started:
 </div>
 
 ## Backend
-
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <!-- Node.js -->
   <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/frameworks/nodejs.svg" width="40" height="40" alt="Node.js">
@@ -91,7 +88,6 @@ Here are some ideas to get you started:
 </div>
 
 ## Database
-
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <!-- MongoDB -->
   <img src="https://avatars.githubusercontent.com/u/45120?s=200&v=4" width="40" height="40" alt="MongoDB">
@@ -104,7 +100,6 @@ Here are some ideas to get you started:
 </div>
 
 ## Frameworks / Tools
-
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <!-- React -->
   <img src="https://avatars.githubusercontent.com/u/6412038?s=200&v=4" width="40" height="40" alt="React">
@@ -117,7 +112,6 @@ Here are some ideas to get you started:
 </div>
 
 ## CMS
-
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <!-- WordPress -->
   <img src="https://camo.githubusercontent.com/7218b2c57d64f068ef9c44bbefd49aef42b817912a7bffdcf303152cea28a7cf/68747470733a2f2f662e636c6f75642e6769746875622e636f6d2f6173736574732f313833353939372f3739353130332f36333964303366322d656364642d313165322d383561362d6132623562316262613065382e706e67" width="40" height="40" alt="WordPress">
