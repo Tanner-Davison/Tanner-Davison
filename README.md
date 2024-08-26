@@ -18,6 +18,8 @@
 </a>
 
 </div>
+
+
 As a **Fullstack Developer** at Vasion, my days are a dynamic mix of creativity and technical problem-solving:
 
 - 🛠️ **Frontend:** Crafting engaging user interfaces with [React Gatsby](https://www.gatsbyjs.com)
