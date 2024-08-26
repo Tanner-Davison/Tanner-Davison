@@ -25,6 +25,7 @@ Balancing professional responsibilities with personal growth, I thrive in the ev
   <img src="https://yt3.googleusercontent.com/s4pwxp5c2n-jMytCDPeNST5Cgd-LkPztvhZLuR2Z9zVQ2LPURTeG3bjAv4vq9xeAIOOXU7Zd=s160-c-k-c0x00ffffff-no-rj" alt="Additional Logo" width="40" height="40" style="border-radius:10%">
 </a>
 </div>
+<br>
 <a href="https://vasion.com/careers" target="_blank">
   <object data="https://img.shields.io/badge/full--stack_developer:-vasion/printerlogic-5B3D8E" type="image/svg+xml" width="auto" height="auto">
     <img src="https://img.shields.io/badge/full--stack_developer:-vasion/printerlogic-5B3D8E" alt="Static Badge" width="auto" height="auto">
