@@ -1,12 +1,5 @@
 ## About me👋
 
-<a href="https://vasion.com/careers" target="_blank">
-  <object data="https://img.shields.io/badge/full--stack_developer:-vasion/printerlogic-5B3D8E" type="image/svg+xml" width="auto" height="auto">
-    <img src="https://img.shields.io/badge/full--stack_developer:-vasion/printerlogic-5B3D8E" alt="Static Badge" width="auto" height="auto">
-  </object>
-</a>
-<br/>
-
 As a **Fullstack Developer** at Vasion, my days are a dynamic mix of creativity and technical problem-solving:
 
 - 🛠️ **Frontend:** Crafting engaging user interfaces with [React Gatsby](https://www.gatsbyjs.com)
@@ -32,7 +25,11 @@ Balancing professional responsibilities with personal growth, I thrive in the ev
   <img src="https://yt3.googleusercontent.com/s4pwxp5c2n-jMytCDPeNST5Cgd-LkPztvhZLuR2Z9zVQ2LPURTeG3bjAv4vq9xeAIOOXU7Zd=s160-c-k-c0x00ffffff-no-rj" alt="Additional Logo" width="40" height="40" style="border-radius:10%">
 </a>
 </div>
-
+<a href="https://vasion.com/careers" target="_blank">
+  <object data="https://img.shields.io/badge/full--stack_developer:-vasion/printerlogic-5B3D8E" type="image/svg+xml" width="auto" height="auto">
+    <img src="https://img.shields.io/badge/full--stack_developer:-vasion/printerlogic-5B3D8E" alt="Static Badge" width="auto" height="auto">
+  </object>
+</a>
 <!--**Tanner-Davison/Tanner-Davison** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
