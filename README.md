@@ -4,7 +4,20 @@
     <img src="https://img.shields.io/badge/full--stack_developer:-vasion/printerlogic-5B3D8E" alt="Static Badge" width="auto" height="auto">
   </object>
 </a>
+## Current Organizations
 
+<div style="display: flex; align-items: center;">
+  <a href="https://github.com/organization">
+    <img src="https://avatars.githubusercontent.com/u/146381912?s=200&v=4" alt="Vasion" width="40" height="40" style="border-radius:10%">
+  </a>
+  <a href="https://www.linkedin.com/company/printerlogic">
+    <img src="https://media.licdn.com/dms/image/v2/D560BAQFJ1bX91MKquA/company-logo_200_200/company-logo_200_200/0/1686233945592/printerlogic_logo?e=1732752000&v=beta&t=pjhwy_leD8chxYXrKhFcw8yaLnaeJRCA9fmvTE7AJg8" alt="PrinterLogic" width="40" height="40"style="border-radius:10%">
+  </a>
+<a href="https://thedavisonboys.com">
+  <img src="https://yt3.googleusercontent.com/s4pwxp5c2n-jMytCDPeNST5Cgd-LkPztvhZLuR2Z9zVQ2LPURTeG3bjAv4vq9xeAIOOXU7Zd=s160-c-k-c0x00ffffff-no-rj" alt="Additional Logo" width="40" height="40" style="border-radius:10%">
+</a>
+
+</div>
 As a **Fullstack Developer** at Vasion, my days are a dynamic mix of creativity and technical problem-solving:
 
 - 🛠️ **Frontend:** Crafting engaging user interfaces with [React Gatsby](https://www.gatsbyjs.com)
@@ -115,20 +128,7 @@ Here are some ideas to get you started:
 
 
 
-## Organizations
 
-<div style="display: flex; align-items: center;">
-  <a href="https://github.com/organization">
-    <img src="https://avatars.githubusercontent.com/u/146381912?s=200&v=4" alt="Vasion" width="50" height="50" style="border-radius:10%">
-  </a>
-  <a href="https://www.linkedin.com/company/printerlogic">
-    <img src="https://media.licdn.com/dms/image/v2/D560BAQFJ1bX91MKquA/company-logo_200_200/company-logo_200_200/0/1686233945592/printerlogic_logo?e=1732752000&v=beta&t=pjhwy_leD8chxYXrKhFcw8yaLnaeJRCA9fmvTE7AJg8" alt="PrinterLogic" width="50" height="50"style="border-radius:10%">
-  </a>
-<a href="https://thedavisonboys.com">
-  <img src="https://yt3.googleusercontent.com/s4pwxp5c2n-jMytCDPeNST5Cgd-LkPztvhZLuR2Z9zVQ2LPURTeG3bjAv4vq9xeAIOOXU7Zd=s160-c-k-c0x00ffffff-no-rj" alt="Additional Logo" width="50" height="50" style="border-radius:10%">
-</a>
-
-</div>
 
 
 
