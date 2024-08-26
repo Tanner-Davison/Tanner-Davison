@@ -18,7 +18,7 @@ Balancing professional responsibilities with personal growth, I thrive in the ev
   <a href="https://github.com/organization" style="display:flex; text-decoration: none !important; color: transparent; margin-right: 10px;" >
     <img src="https://avatars.githubusercontent.com/u/146381912?s=200&v=4" alt="Vasion" width="40" height="40" style=" margin-right: 33px;">
   </a>
-  <a href="https://www.linkedin.com/company/printerlogic" style="text-decoration: none; color: transparent; margin-right: 10px;">
+  <a href="https://printerlogic.com/" style="text-decoration: none; color: transparent; margin-right: 10px;">
     <img src="https://media.licdn.com/dms/image/v2/D560BAQFJ1bX91MKquA/company-logo_200_200/company-logo_200_200/0/1686233945592/printerlogic_logo?e=1732752000&v=beta&t=pjhwy_leD8chxYXrKhFcw8yaLnaeJRCA9fmvTE7AJg8" alt="PrinterLogic" width="40" height="40"style="margin-right: 10px;">
   </a>
 <a href="https://thedavisonboys.com" style="margin-right: 10px;">
