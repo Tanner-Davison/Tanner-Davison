@@ -75,7 +75,7 @@ Balancing professional responsibilities with personal growth, I thrive in the ev
   <!-- MongoDB -->
   <img src="https://avatars.githubusercontent.com/u/45120?s=200&v=4" width="40" height="40" alt="MongoDB">
   <!-- SQL -->
-  <img src="https://user-images.githubusercontent.com/40461634/114240226-2f506580-9955-11eb-849b-e2a25117d681.png" width="40" height="40" alt="SQL">
+  <img src="https://private-user-images.githubusercontent.com/123428368/361276252-516ed659-19de-4af9-840c-84f8d2ee2cbd.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjQ2MzYzMjMsIm5iZiI6MTcyNDYzNjAyMywicGF0aCI6Ii8xMjM0MjgzNjgvMzYxMjc2MjUyLTUxNmVkNjU5LTE5ZGUtNGFmOS04NDBjLTg0ZjhkMmVlMmNiZC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwODI2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDgyNlQwMTMzNDNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT05ODFkMTFjZTBhYmUzZTY5OWZiMzUwNjdiZmQzY2Y2ODZmZGZkOGNhZmM3YWUzMjBiYjRjZGI0ODBiOGFmNzJhJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.kjVx8pFlYwqBGk_ClhcyrLQ0CTfK2kIxO6bdACNlwN0" width="40" height="40" alt="SQL">
   <!-- PostgreSQL -->
   <img src="https://user-images.githubusercontent.com/24623425/36042969-f87531d4-0d8a-11e8-9dee-e87ab8c6a9e3.png" width="40" height="40" alt="PostgreSQL">
   <!-- Firebase -->
