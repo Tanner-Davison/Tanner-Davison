@@ -110,7 +110,9 @@ Balancing professional responsibilities with personal growth, I thrive in the ev
 
 
 
+## Printer Logic Status:
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/24a2a9b7-7f73-4522-b8fd-2706d01c1642/deploy-status)](https://app.netlify.com/sites/printerlogic/deploys)
 
 
 
