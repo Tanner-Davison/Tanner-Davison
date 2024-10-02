@@ -26,13 +26,11 @@ Balancing professional responsibilities with personal growth, I thrive in the ev
 </a>
 </div>
 <br>
-<a href="https://vasion.com/careers" target="_blank">
-  <object data="https://img.shields.io/badge/full--stack_developer:-vasion/printerlogic-5B3D8E" type="image/svg+xml" width="auto" height="auto">
-    <img src="https://img.shields.io/badge/full--stack_developer:-vasion/printerlogic-5B3D8E" alt="Static Badge" width="auto" height="auto">
-  </object>
-</a>
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanner-davison-256782121)
+
+![Full-Stack Developer: Vasion/Printerlogic](https://img.shields.io/badge/full--stack_developer:-vasion/printerlogic-5B3D8E?style=plastic)
+
               
 ## Stats
  
