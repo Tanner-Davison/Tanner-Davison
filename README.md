@@ -30,11 +30,8 @@ Balancing professional responsibilities with personal growth, I thrive in the ev
 </div>
 <br>
 
-<a href="https://www.linkedin.com/in/tanner-davison-256782121" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: '35px';">
-</a>
-
-              
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanner-davison-256782121)
+     
 ## Stats
  
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Tanner-Davison&theme=highcontrast&hide_border=true)](https://git.io/streak-stats) <img src="https://github-readme-stats.vercel.app/api?username=Tanner-Davison&show_icons=true&theme=highcontrast&hide_border=true&hide_rank=true&hide=contribs" alt="Your GitHub Stats" /> 
