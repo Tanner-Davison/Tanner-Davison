@@ -30,7 +30,9 @@ Balancing professional responsibilities with personal growth, I thrive in the ev
 </div>
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanner-davison-256782121)
+<a href="https://www.linkedin.com/in/tanner-davison-256782121" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: '35px';">
+</a>
 
               
 ## Stats
