@@ -14,6 +14,9 @@ Staying current with industry trends and exploring new tools is a constant part 
 Balancing professional responsibilities with personal growth, I thrive in the ever-evolving field of web development, always looking to push the boundaries of what’s possible.
 
 ## Current Organizations
+
+[![Full-Stack Developer: Vasion/Printerlogic](https://img.shields.io/badge/Full--Stack_Developer:-Vasion/Printerlogic-5B3D8E?style=plastic)](https://vasion.com)
+
 <div style="display: flex; align-items: center; ">
   <a href="https://github.com/organization" style="display:flex; text-decoration: none !important; color: transparent; margin-right: 10px;" >
     <img src="https://avatars.githubusercontent.com/u/146381912?s=200&v=4" alt="Vasion" width="40" height="40" style=" margin-right: 33px;">
@@ -28,8 +31,6 @@ Balancing professional responsibilities with personal growth, I thrive in the ev
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanner-davison-256782121)
-
-![Full-Stack Developer: Vasion/Printerlogic](https://img.shields.io/badge/full--stack_developer:-vasion/printerlogic-5B3D8E?style=plastic)
 
               
 ## Stats
