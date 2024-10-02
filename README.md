@@ -35,7 +35,7 @@ Balancing professional responsibilities with personal growth, I thrive in the ev
 ## Stats
  
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Tanner-Davison&theme=highcontrast&hide_border=true)](https://git.io/streak-stats) <img src="https://github-readme-stats.vercel.app/api?username=Tanner-Davison&show_icons=true&theme=highcontrast&hide_border=true&hide_rank=true&hide=contribs" alt="Your GitHub Stats" /> 
-
+[GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Tanner-Davison&theme=matrix)
 ## Programming Languages
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <!-- C -->
