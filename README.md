@@ -22,7 +22,7 @@ Balancing professional responsibilities with personal growth, I thrive in the ev
     <img src="https://avatars.githubusercontent.com/u/146381912?s=200&v=4" alt="Vasion" width="40" height="40" style=" margin-right: 33px;">
   </a>
   <a href="https://printerlogic.com/" style="text-decoration: none; color: transparent; margin-right: 10px;">
-    <img src="https://media.licdn.com/dms/image/v2/D560BAQFJ1bX91MKquA/company-logo_200_200/company-logo_200_200/0/1686233945592/printerlogic_logo?e=1732752000&v=beta&t=pjhwy_leD8chxYXrKhFcw8yaLnaeJRCA9fmvTE7AJg8" alt="PrinterLogic" width="40" height="40"style="margin-right: 10px;">
+    <img src="https://media.licdn.com/dms/image/v2/D560BAQEXVY1CvHU93w/company-logo_100_100/company-logo_100_100/0/1727213110207/printerlogic_logo?e=1736380800&v=beta&t=N-UrCrqGegwo1Smdk8jgN-HpzuBGDAI1D6ccwcMNzDE" alt="PrinterLogic" width="40" height="40"style="margin-right: 10px;">
   </a>
 <a href="https://www.youtube.com/channel/UCqbI028CizpePe9UQ-Mvt5Q" style="margin-right: 10px;">
   <img src="https://yt3.googleusercontent.com/s4pwxp5c2n-jMytCDPeNST5Cgd-LkPztvhZLuR2Z9zVQ2LPURTeG3bjAv4vq9xeAIOOXU7Zd=s160-c-k-c0x00ffffff-no-rj" alt="Additional Logo" width="45" height="40" style="margin-right:20px;">
