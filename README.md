@@ -1,4 +1,8 @@
+
+
 ## About me👋
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanner-davison-256782121)
 
 As a **Fullstack Developer** at Vasion, my days are a dynamic mix of creativity and technical problem-solving:
 
@@ -13,29 +17,39 @@ Staying current with industry trends and exploring new tools is a constant part 
 
 Balancing professional responsibilities with personal growth, I thrive in the ever-evolving field of web development, always looking to push the boundaries of what’s possible.
 
+
+## Stats
+ 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Tanner-Davison&theme=highcontrast&hide_border=true)](https://git.io/streak-stats) <img src="https://github-readme-stats.vercel.app/api?username=Tanner-Davison&show_icons=true&theme=highcontrast&hide_border=true&hide_rank=true&hide=contribs" alt="Your GitHub Stats" /> 
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Tanner-Davison&theme=darkhub&column=5&margin-w=70&margin-h=15&no-bg=true&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,B)
+
 ## Current Organizations
 
 [![Full-Stack Developer: Vasion/Printerlogic](https://img.shields.io/badge/Full--Stack_Developer:-Vasion/Printerlogic-5B3D8E?style=plastic)](https://vasion.com)
 
 <div style="display: flex; align-items: center; ">
+  <h3>Vasion</h3>
   <a href="https://github.com/organization" style="display:flex; text-decoration: none !important; color: transparent; margin-right: 10px;" >
     <img src="https://avatars.githubusercontent.com/u/146381912?s=200&v=4" alt="Vasion" width="40" height="40" style=" margin-right: 33px;">
   </a>
+  <div> 
+    
+  <h3>Vasion Print (printerlogic)</h3>
+    
   <a href="https://printerlogic.com/" style="text-decoration: none; color: transparent; margin-right: 10px;">
     <img src="https://media.licdn.com/dms/image/v2/D560BAQEXVY1CvHU93w/company-logo_100_100/company-logo_100_100/0/1727213110207/printerlogic_logo?e=1736380800&v=beta&t=N-UrCrqGegwo1Smdk8jgN-HpzuBGDAI1D6ccwcMNzDE" alt="PrinterLogic" width="40" height="40"style="margin-right: 10px;">
   </a>
+  <h3>The Davison Boys</h3>
 <a href="https://www.youtube.com/channel/UCqbI028CizpePe9UQ-Mvt5Q" style="margin-right: 10px;">
   <img src="https://yt3.googleusercontent.com/s4pwxp5c2n-jMytCDPeNST5Cgd-LkPztvhZLuR2Z9zVQ2LPURTeG3bjAv4vq9xeAIOOXU7Zd=s160-c-k-c0x00ffffff-no-rj" alt="Additional Logo" width="45" height="40" style="margin-right:20px;">
 </a>
 </div>
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanner-davison-256782121)
+
+
      
-## Stats
- 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Tanner-Davison&theme=highcontrast&hide_border=true)](https://git.io/streak-stats) <img src="https://github-readme-stats.vercel.app/api?username=Tanner-Davison&show_icons=true&theme=highcontrast&hide_border=true&hide_rank=true&hide=contribs" alt="Your GitHub Stats" /> 
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Tanner-Davison&theme=darkhub&column=5&margin-w=70&margin-h=15&no-bg=true&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,B)
+
 
 ## Programming Languages
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
