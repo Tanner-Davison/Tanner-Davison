@@ -6,9 +6,7 @@
 
 As a **Fullstack Developer** at Vasion, my days are a dynamic mix of creativity and technical problem-solving:
 
-- 🛠️ **Frontend:** Crafting engaging user interfaces with [React Gatsby](https://www.gatsbyjs.com)
-- 🔧 **Backend:** Integrating  [CMS](https://datocms.com) and handling server-side logic and database interactions
-- 🔄 **Migration:** Transitioning from [WordPress](https://wordpress.org) to [DatoCMS](https://www.datocms.com)
+- 🛠️ **Software Developer @Vasion || @Printerlogic
 
 Staying current with industry trends and exploring new tools is a constant part of my routine:
 
@@ -16,7 +14,6 @@ Staying current with industry trends and exploring new tools is a constant part 
 - 🚀 **Hobbies:** Tinkering with [Arduino](https://www.arduino.cc) and working on personal projects
 
 Balancing professional responsibilities with personal growth, I thrive in the ever-evolving field of web development, always looking to push the boundaries of what’s possible.
-
 
 ## Stats
  
