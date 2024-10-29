@@ -28,7 +28,7 @@ Balancing professional responsibilities with personal growth, I thrive in the ev
 <div style="display: flex; align-items: center; ">
   <h3>Vasion</h3>
   <a href="https://github.com/organization" style="display:flex; text-decoration: none !important; color: transparent; margin-right: 10px;" >
-    <img src="https://avatars.githubusercontent.com/u/146381912?s=200&v=4" alt="Vasion" width="40" height="40" style=" margin-right: 33px;">
+    <img src="https://avatars.githubusercontent.com/u/146381912?s=200&v=4" alt="Vasion" width="45" height="45" style=" margin-right: 33px;">
   </a>
   <div> 
     
