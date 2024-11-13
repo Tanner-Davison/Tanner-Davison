@@ -17,7 +17,7 @@ Balancing professional responsibilities with personal growth, I thrive in the ev
 
 ## Stats
  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Tanner-Davison&theme=highcontrast&show_icons=true)](https://git.io/streak-stats) <img src="https://github-readme-stats.vercel.app/api?username=Tanner-Davison&show_icons=true&theme=highcontrast" alt="Your GitHub Stats" /> 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Tanner-Davison&theme=highcontrast)](https://git.io/streak-stats) <img src="https://github-readme-stats.vercel.app/api?username=Tanner-Davison&show_icons=true&theme=highcontrast" alt="Your GitHub Stats" /> 
 
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Tanner-Davison&theme=darkhub&column=5&margin-w=70&margin-h=15&no-bg=true&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,B)
 
