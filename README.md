@@ -9,7 +9,7 @@
 
 Staying current with industry trends and exploring new tools is a constant part of my routine:
 
-💻 **Tools:** Using [CLion](https://www.jetbrains.com/clion/) and [Visual Studio](https://visualstudio.microsoft.com) for C++ and low-level programming  
+💻 **Tools:** Using [CLion](https://www.jetbrains.com/clion/) and [Visual Studio](https://visualstudio.microsoft.com) for C++ and low-level programming / Game Development 
 ⚙️ **Utility:** [Neovim](https://neovim.io/) & [Vim](https://www.vim.org/) for web development and low-level programming  
 🚀 **Hobbies:** Tinkering with [Arduino](https://www.arduino.cc), building interactive utilities, and, of course, never-ending customizations to my `init.lua` files
 
