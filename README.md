@@ -13,10 +13,6 @@ Staying current with industry and finding passion in the never shrinking world t
 ⚙️ **Utility:** [Neovim](https://neovim.io/) & [Vim](https://www.vim.org/) for web development and low-level programming  
 🚀 **Hobbies:** Tinkering with [Arduino](https://www.arduino.cc), building interactive utilities, and, of course, never-ending customizations to my `init.lua` files
 
-💻 **Tools:** Using <a href="https://www.jetbrains.com/clion/" style="color:#FF5100;">CLion</a> and <a href="https://visualstudio.microsoft.com" style="color:#FF5100;">Visual Studio</a> for C++ and low-level programming  
-⚙️ **Utility:** <a href="https://neovim.io/" style="color:#FF5100;">Neovim</a> & <a href="https://www.vim.org/" style="color:#FF5100;">Vim</a> for web development and low-level programming  
-🚀 **Hobbies:** Tinkering with <a href="https://www.arduino.cc" style="color:#FF5100;">Arduino</a>, building interactive utilities, and, of course, never-ending customizations to my `init.lua` files
-
 **Recommended Books:**
 - 📚 **Design Patterns**: *Elements of Reusable Code*
 - 📚 **C++ Primer**: *Fifth Edition*
