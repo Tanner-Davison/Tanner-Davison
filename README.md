@@ -4,8 +4,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanner-davison-256782121)
 
-As a **Fullstack Developer** at Vasion, my days are a dynamic mix of creativity and technical problem-solving:
-
+**Fullstack Developer**
 - 🛠️ **Software Developer @Vasion || @Printerlogic
 
 Staying current with industry trends and exploring new tools is a constant part of my routine:
@@ -17,10 +16,10 @@ Staying current with industry trends and exploring new tools is a constant part 
 Balancing professional responsibilities with personal growth, I thrive to be the best programmer I can be. I love learning and and am fascinated by design patterns.
 
 **Recommended Books:**
-- **Design Patterns**: *Elements of Reusable Code*
-- **C++ Primer**: *Fifth Edition*
-- **Professional C++**: *6th Edition*
-- **Algorithms**: *by Panos Louridas*
+- 📚 **Design Patterns**: *Elements of Reusable Code*
+- 📚 **C++ Primer**: *Fifth Edition*
+- 📚 **Professional C++**: *6th Edition*
+- 📚 **Algorithms**: *by Panos Louridas*
 
 ## Stats
  
