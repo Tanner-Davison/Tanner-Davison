@@ -7,13 +7,22 @@
 **Fullstack Developer**
 - 🛠️ Software Developer *Vasion* && *Printerlogic*
 
-Staying current with industry trends and exploring new tools is a constant part of my routine:
+Staying current with industry and finding passion in the never shrinking World of Programming!
 
-💻 **Tools:** [CLion](https://www.jetbrains.com/clion/) and [Visual Studio](https://visualstudio.microsoft.com) for C++ and Game Development
+💻 **Tools:**
+  - [CLion](https://www.jetbrains.com/clion/)  
+  - [Visual Studio](https://visualstudio.microsoft.com)  
+  for C++ and low-level programming  
 
-⚙️ **Utility:** [Neovim](https://neovim.io/) & [Vim](https://www.vim.org/) for web development and low-level programming 
+⚙️ **Utility:**
+  - [Neovim](https://neovim.io/)  
+  - [Vim](https://www.vim.org/)  
+  for web development and low-level programming  
 
-🚀 **Hobbies:** Tinkering with [Arduino](https://www.arduino.cc), building interactive utilities, and, of course, never-ending customizations to my `init.lua` files
+🚀 **Hobbies:**
+  - Tinkering with [Arduino](https://www.arduino.cc)  
+  - Building interactive utilities  
+  - Never-ending customizations to my `init.lua` files
 
 
 Balancing professional responsibilities with personal growth, I thrive to be the best programmer I can be. I love learning and and am fascinated by design patterns.
