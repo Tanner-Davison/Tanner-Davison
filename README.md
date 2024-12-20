@@ -5,7 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanner-davison-256782121)
 
 **Fullstack Developer**
-- 🛠️ **Software Developer @Vasion || @Printerlogic
+- 🛠️ Software Developer @Vasion || @Printerlogic
 
 Staying current with industry trends and exploring new tools is a constant part of my routine:
 
