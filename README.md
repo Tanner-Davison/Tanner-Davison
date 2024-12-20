@@ -9,9 +9,8 @@
 
 Staying current with industry and finding passion in the never shrinking World of Programming!
 
-💻 **Tools:**
-  - [CLion](https://www.jetbrains.com/clion/)  
-  - [Visual Studio](https://visualstudio.microsoft.com)  
+💻 **Tools:**     - [CLion](https://www.jetbrains.com/clion/)  
+                    - [Visual Studio](https://visualstudio.microsoft.com)  
   for C++ and low-level programming  
 
 ⚙️ **Utility:**
