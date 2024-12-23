@@ -13,11 +13,11 @@ Staying current with industry and finding passion in the never shrinking world t
 ⚙️ **Utility:** [Neovim](https://neovim.io/) & [Vim](https://www.vim.org/) for web development and low-level programming  
 🚀 **Hobbies:** Tinkering with [Arduino](https://www.arduino.cc), building interactive utilities, and, of course, never-ending customizations to my `init.lua` files
 
-**Recommended Books:**
-- 📚 **Design Patterns**: *Elements of Reusable Code*
-- 📚 **C++ Primer**: *Fifth Edition*
-- 📚 **Professional C++**: *6th Edition*
-- 📚 **Algorithms**: *by Panos Louridas*
+**Recommended Books: 📚**
+- 📖 **Design Patterns**: *Elements of Reusable Code*
+- 📖 **C++ Primer**: *Fifth Edition*
+- 📖 **Professional C++**: *6th Edition*
+- 📖 **Algorithms**: *by Panos Louridas*
 
 ## Stats
  
