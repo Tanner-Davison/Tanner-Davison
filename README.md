@@ -14,7 +14,7 @@ Staying current with industry and finding passion in the never shrinking world t
 🚀 **Hobbies:** Tinkering with [Arduino](https://www.arduino.cc), building interactive utilities, and, of course, never-ending customizations to my `init.lua` files
 
 **Recommended Books: 📚**
-- 📖 **Design Patterns**: by: *The gang of four*
+- 📖 **Design Patterns** by: *The gang of four*
 - 📖 **C++ Primer**: *Fifth Edition*
 - 📖 **Professional C++**: *6th Edition*
 - 📖 **Algorithms**: *by Panos Louridas*
