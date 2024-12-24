@@ -9,9 +9,9 @@
 
 Staying current with industry and finding passion in the never shrinking world that is Programming!
 
-💻 **Tools:** Using [CLion](https://www.jetbrains.com/clion/) and [Visual Studio](https://visualstudio.microsoft.com) for C++ and low-level programming  
-⚙️ **Utility:** [Neovim](https://neovim.io/) & [Vim](https://www.vim.org/) for web development and low-level programming  
-🚀 **Hobbies:** Tinkering with [Arduino](https://www.arduino.cc), building interactive utilities, and, of course, never-ending customizations to my `init.lua` files
+💻 **Beginnings:** Using [CLion](https://www.jetbrains.com/clion/) and [Visual Studio](https://visualstudio.microsoft.com) as my first IDE's
+⚙️ **Currently:** 1st[Neovim](https://neovim.io/) & I still keep my [Vim](https://www.vim.org/) project up to date for the love of it
+🚀 **Hobbies:** Tinkering with [Arduino](https://www.arduino.cc), building interactive utilities, and, never-ending customizations to my `init.lua` files
 
 **Recommended Books: 📚**
 - 📖 **Design Patterns** by: *The gang of four*
