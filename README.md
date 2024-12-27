@@ -57,6 +57,8 @@ Staying current with industry and finding passion in the never shrinking world t
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <!-- C -->
   <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/c.svg" width="40" height="40" alt="C">
+ <!-- Lua  -->
+  <img src="https://raw.githubusercontent.com/manuelbieh/logo-file-icons/6a172ce5a46ecfafe5db7f2ec624f4602cde9b8e/icons/lua.svg" width="40" height="40" alt="C">
   <!-- C++ -->
   <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/c%2B%2B.svg" width="40" height="40" alt="C++">
   <!-- Python -->
