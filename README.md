@@ -67,8 +67,6 @@ Staying current with industry and finding passion in the never shrinking world t
   <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/java.svg" width="40" height="40" alt="Java">
   <!-- JavaScript -->
   <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/javascript.svg" width="40" height="40" alt="JavaScript">
-  <!-- TypeScript -->
-  <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/typescript.svg" width="40" height="40" alt="TypeScript">
  <!-- VimScript -->
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Icon-Vim.svg/384px-Icon-Vim.svg.png?20100125062842" width="40" height="40" alt="Vim-Script">
 </div>
@@ -77,6 +75,8 @@ Staying current with industry and finding passion in the never shrinking world t
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <!-- JavaScript -->
   <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/javascript.svg" width="40" height="40" alt="JavaScript">
+   <!-- TypeScript -->
+  <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/typescript.svg" width="40" height="40" alt="TypeScript">
   <!-- HTML5 -->
   <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/social%20icons/html5.svg" width="40" height="40" alt="HTML5">
   <!-- CSS3 -->
