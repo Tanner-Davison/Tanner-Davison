@@ -1,6 +1,6 @@
 
 
-## About me 👋 **Fullstack Developer Software Developer at** *Vasion* & *Printerlogic*
+## About me 👋 **Fullstack Software Developer @** *Vasion* & *Printerlogic*
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanner-davison-256782121)
 
