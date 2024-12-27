@@ -21,10 +21,10 @@ Staying current with industry and finding passion in the never shrinking world t
 
 ## Stats
  
-<img src="https://streak-stats.demolab.com?user=Tanner-Davison&theme=dark" alt = "Your Github Stats"/>
+<img src="https://streak-stats.demolab.com?user=Tanner-Davison&theme=highcotrast" alt = "Your Github Stats"/>
 <img src="https://github-readme-stats.vercel.app/api?username=Tanner-Davison&show_icons=true&theme=highcontrast" alt="Your GitHub Stats" /> 
 
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Tanner-Davison&theme=darkhub&column=5&margin-w=70&margin-h=15&no-bg=true&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,B)
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Tanner-Davison&theme=highcontrast&column=5&margin-w=70&margin-h=15&no-bg=true&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,B)
 
 ## Current Organizations
 
