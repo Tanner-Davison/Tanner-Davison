@@ -11,13 +11,14 @@ While I primarily work with JavaScript frameworks like React, my true excitement
 
 <div>
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Icon-Vim.svg/384px-Icon-Vim.svg.png?20100125062842" width="16" height="16" alt="Vim Logo" style="vertical-align: bottom;">
-<b>Neovim</b>: No other way to program. check out my <a href="https://github.com/Tanner-Davison/Lua-Configuration">Lua Repository</a>. Feel free to take what you need! <br>
+<strong>Neovim</strong>: No other way to program. check out my <a href="https://github.com/Tanner-Davison/Lua-Configuration">Lua Repository</a>. Feel free to take what you need! <br>
 </div>
 <br>
-🚀 **Hobbies:** 
-- Crafting embedded systems with Arduino
-- Developing productivity-focused utilities
-- Architecting full-stack web applications with rich user interactions and robust data management
+<strong>🚀 Hobbies:</strong>
+
+Building embedded systems with Arduino, exploring electronics, and creating IoT solutions
+Developing CLI tools and automation utilities to enhance developer workflows
+Crafting modern web applications with focus on seamless user experiences and scalable data architecture
 
 **Recommended Books: 📚**
 - 📖 **Design Patterns** by: *The gang of four*
