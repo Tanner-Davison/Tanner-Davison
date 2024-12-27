@@ -2,7 +2,7 @@
 
 ## About me 👋 **Fullstack Software Developer @** *Vasion* & *Printerlogic*
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanner-davison-256782121)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Tanner-Davison&theme=darkhub&column=5&margin-w=70&margin-h=15&no-bg=true&no-frame=true&rank=SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
 
 Staying current with industry and finding passion in the never shrinking world that is Programming!
 
