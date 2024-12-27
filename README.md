@@ -3,7 +3,8 @@
 ## About me 👋 **Fullstack Software Developer @** *Vasion* & *Printerlogic*
 
 
-Staying current with industry and finding passion in the never shrinking world that is Programming!
+Hello,
+I'm Tanner Davison, a Full Stack Software Developer who's passionate about building software and exploring new technologies. I love diving deep into code and learning how things work under the hood.
 
 <div>
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Icon-Vim.svg/384px-Icon-Vim.svg.png?20100125062842" width="16" height="16" alt="Vim Logo" style="vertical-align: bottom;">
