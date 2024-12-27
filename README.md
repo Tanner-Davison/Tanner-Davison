@@ -1,6 +1,8 @@
 
 
-## About me 👋 **Fullstack Software Developer @** *Vasion* & *Printerlogic*
+## About me 👋 
+
+***Fullstack Software Developer @*** *Vasion* & *Printerlogic*
 
 
 Hello,
