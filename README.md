@@ -90,6 +90,10 @@ Staying current with industry and finding passion in the never shrinking world t
   <!-- JavaScript -->
   <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/javascript.svg" width="40" height="40" alt="JavaScript">
 </div>
+  <!-- C++ -->
+  <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/c%2B%2B.svg" width="40" height="40" alt="C++">
+    <!-- Python -->
+  <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/python.svg" width="40" height="40" alt="Python">
 
 ## Database
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
