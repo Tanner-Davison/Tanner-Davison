@@ -10,7 +10,7 @@ Staying current with industry and finding passion in the never shrinking world t
 <b>Neovim</b>: No other way to program. check out my <a href="https://github.com/Tanner-Davison/Lua-Configuration">Lua Repository</a>. Feel free to take what you need! <br>
 </div>
 
-🚀 **Hobbies:** Tinkering with [Arduino](https://www.arduino.cc), building interactive utilities, and, never-ending customizations to my `init.lua` files
+🚀 **Hobbies:** Crafting embedded systems with Arduino, developing productivity-focused utilities, and architecting full-stack web applications with rich user interactions and robust data management
 
 **Recommended Books: 📚**
 - 📖 **Design Patterns** by: *The gang of four*
