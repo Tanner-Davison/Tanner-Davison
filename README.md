@@ -8,8 +8,9 @@ Staying current with industry and finding passion in the never shrinking world t
 
 <div>
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Icon-Vim.svg/384px-Icon-Vim.svg.png?20100125062842" width="16" height="16" alt="Vim Logo" style="vertical-align: bottom;">
- **Neovim:** passion for [Neovim](https://neovim.io/) check out my Lua Repository. Feel free to take what you need! <br>
+ <h5Neovim</h5> I have a passion for [Neovim](https://neovim.io/) check out my Lua Repository !
 </div>
+
 🚀 **Hobbies:** Tinkering with [Arduino](https://www.arduino.cc), building interactive utilities, and, never-ending customizations to my `init.lua` files
 
 **Recommended Books: 📚**
