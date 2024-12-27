@@ -5,7 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanner-davison-256782121)
 
 **Fullstack Developer**
-- 🛠️ Software Developer *Vasion* && *Printerlogic*
+- 🛠️ Software Developer at *Vasion* & *Printerlogic*
 
 Staying current with industry and finding passion in the never shrinking world that is Programming!
 
