@@ -100,7 +100,7 @@ Staying current with industry and finding passion in the never shrinking world t
   <!-- MongoDB -->
   <img src="https://avatars.githubusercontent.com/u/45120?s=200&v=4" width="40" height="40" alt="MongoDB">
   <!-- SQL -->
-  <img src="https://private-user-images.githubusercontent.com/123428368/361276252-516ed659-19de-4af9-840c-84f8d2ee2cbd.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjQ2MzYzMjMsIm5iZiI6MTcyNDYzNjAyMywicGF0aCI6Ii8xMjM0MjgzNjgvMzYxMjc2MjUyLTUxNmVkNjU5LTE5ZGUtNGFmOS04NDBjLTg0ZjhkMmVlMmNiZC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwODI2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDgyNlQwMTMzNDNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT05ODFkMTFjZTBhYmUzZTY5OWZiMzUwNjdiZmQzY2Y2ODZmZGZkOGNhZmM3YWUzMjBiYjRjZGI0ODBiOGFmNzJhJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.kjVx8pFlYwqBGk_ClhcyrLQ0CTfK2kIxO6bdACNlwN0" width="40" height="40" alt="SQL">
+  <img src="https://raw.githubusercontent.com/gist/Eduardokopp/9e7872ba3ca293ee1e71362dc5edbb4f/raw/047773d458f688e485a26f6b9b0594457148cbdf/sql-server-icon.svg" width="40" height="40" alt="SQL">
   <!-- PostgreSQL -->
   <img src="https://user-images.githubusercontent.com/24623425/36042969-f87531d4-0d8a-11e8-9dee-e87ab8c6a9e3.png" width="40" height="40" alt="PostgreSQL">
   <!-- Firebase -->
@@ -114,7 +114,7 @@ Staying current with industry and finding passion in the never shrinking world t
   <!-- Gatsby -->
   <img src="https://avatars.githubusercontent.com/u/12551863?s=200&v=4" width="40" height="40" alt="Gatsby" style="margin-right: 10px;">
   <!-- Next.js -->
-  <img src="https://camo.githubusercontent.com/9771a2d4a7366d3c6d4793e17104eba9e88f0aec82f7165bfe6871455c26cb2c/68747470733a2f2f6173736574732e76657263656c2e636f6d2f696d6167652f75706c6f61642f76313636323133303535392f6e6578746a732f49636f6e5f6461726b5f6261636b67726f756e642e706e67" width="40" height="40" alt="Next.js" style="margin-right: 10px;">
+  <img src="https://cdn.brandfetch.io/id2alue-rx/w/400/h/400/theme/dark/icon.jpeg?c=1bx1737902252605id64Mup7acQLLSRRnH&t=1714556222178" width="40" height="40" alt="Next.js" style="margin-right: 10px;">
   <!-- Cmake -->
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/CMake-logo-triangle-high-res.png/900px-CMake-logo-triangle-high-res.png?20110217185244" width="40" height="40" alt="CMAKE" style="margin-right: 10px;">
   <!-- GSAP -->
@@ -126,7 +126,7 @@ Staying current with industry and finding passion in the never shrinking world t
 ## CMS
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <!-- WordPress -->
-  <img src="https://camo.githubusercontent.com/7218b2c57d64f068ef9c44bbefd49aef42b817912a7bffdcf303152cea28a7cf/68747470733a2f2f662e636c6f75642e6769746875622e636f6d2f6173736574732f313833353939372f3739353130332f36333964303366322d656364642d313165322d383561362d6132623562316262613065382e706e67" width="40" height="40" alt="WordPress" style="margin-right: 10px;">
+  <img src="https://static-00.iconduck.com/assets.00/wordpress-icon-2048x2048-nw66awj8.png" width="40" height="40" alt="WordPress" style="margin-right: 10px;">
   <!-- DatoCMS -->
   <img src="https://avatars.githubusercontent.com/u/19649794?s=200&v=4" width="40" height="40" alt="DatoCMS" style="margin-right: 10px;"
   <!-- Contentful -->
