@@ -58,7 +58,7 @@ Staying current with industry and finding passion in the never shrinking world t
   <!-- C -->
   <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/c.svg" width="40" height="40" alt="C">
  <!-- Lua  -->
-  <img src="https://raw.githubusercontent.com/manuelbieh/logo-file-icons/6a172ce5a46ecfafe5db7f2ec624f4602cde9b8e/icons/lua.svg" width="40" height="40" alt="C">
+  <img src="https://raw.githubusercontent.com/manuelbieh/logo-file-icons/6a172ce5a46ecfafe5db7f2ec624f4602cde9b8e/icons/lua.svg" width="40" height="40" alt="Lua">
   <!-- C++ -->
   <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/c%2B%2B.svg" width="40" height="40" alt="C++">
   <!-- Python -->
@@ -69,6 +69,8 @@ Staying current with industry and finding passion in the never shrinking world t
   <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/javascript.svg" width="40" height="40" alt="JavaScript">
   <!-- TypeScript -->
   <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/typescript.svg" width="40" height="40" alt="TypeScript">
+ <!-- VimScript -->
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Icon-Vim.svg/384px-Icon-Vim.svg.png?20100125062842" width="40" height="40" alt="Vim-Script">
 </div>
 
 ## FrontEnd
