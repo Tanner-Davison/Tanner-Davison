@@ -132,6 +132,8 @@ Staying current with industry and finding passion in the never shrinking world t
   <img src="https://avatars.githubusercontent.com/u/19649794?s=200&v=4" width="40" height="40" alt="DatoCMS" style="margin-right: 10px;"
   <!-- Contentful -->
   <img src="https://avatars.githubusercontent.com/u/472182?s=200&v=4" width="40" height="40" alt="Contentful" style="margin-right: 10px;">
+ <!-- Story Blok -->
+  <img src="https://yt3.googleusercontent.com/9P1WydOE3FI4mA8h9Vu7l45M__HifPEbqq4WmxAij2QqMCje-ltsbZKwMNE2XhREesCaXDlw=s160-c-k-c0x00ffffff-no-rj" width="40" height="40" alt="Contentful" style="margin-right: 10px;">
 </div>
 
 
