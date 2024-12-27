@@ -9,7 +9,7 @@
 
 Staying current with industry and finding passion in the never shrinking world that is Programming!
 
-⚙️ **Workbench:** passion for [Neovim](https://neovim.io/) check out my Lua Repository. Feel free to take what you need!
+⚙️ **Workbench:** passion for [Neovim](https://neovim.io/) check out my Lua Repository. Feel free to take what you need! <br>
 🚀 **Hobbies:** Tinkering with [Arduino](https://www.arduino.cc), building interactive utilities, and, never-ending customizations to my `init.lua` files
 
 **Recommended Books: 📚**
