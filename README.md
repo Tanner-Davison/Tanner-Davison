@@ -1,15 +1,15 @@
 
 
-## About me 👋 
+## About me 👋 **Fullstack Developer Software Developer at** *Vasion* & *Printerlogic*
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanner-davison-256782121)
 
-**Fullstack Developer**
-- 🛠️ Software Developer at *Vasion* & *Printerlogic*
-
 Staying current with industry and finding passion in the never shrinking world that is Programming!
 
-⚙️ **Workbench:** passion for [Neovim](https://neovim.io/) check out my Lua Repository. Feel free to take what you need! <br>
+<div>
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Icon-Vim.svg/384px-Icon-Vim.svg.png?20100125062842" width="16" height="16" alt="Vim Logo" style="vertical-align: bottom;">
+ **Neovim:** passion for [Neovim](https://neovim.io/) check out my Lua Repository. Feel free to take what you need! <br>
+</div>
 🚀 **Hobbies:** Tinkering with [Arduino](https://www.arduino.cc), building interactive utilities, and, never-ending customizations to my `init.lua` files
 
 **Recommended Books: 📚**
