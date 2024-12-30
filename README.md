@@ -14,8 +14,7 @@ While I primarily work with JavaScript frameworks like React, my true excitement
 <strong>Neovim</strong>: No other way to program. check out my <a href="https://github.com/Tanner-Davison/Lua-Configuration">Lua Repository</a>. Feel free to take what you need! <br>
 </div>
 <br>
-<strong>🚀 Hobbies:</strong>
-
+<strong>🚀 Hobbies: </strong>
 Building embedded systems with Arduino, exploring electronics, and creating IoT solutions
 Developing CLI tools and automation utilities to enhance developer workflows
 Crafting modern web applications with focus on seamless user experiences and scalable data architecture
