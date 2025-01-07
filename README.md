@@ -50,7 +50,7 @@ Crafting modern web applications with focus on seamless user experiences and sca
   </a>
   <h3>The Davison Boys</h3>
 <a href="https://www.youtube.com/channel/UCqbI028CizpePe9UQ-Mvt5Q" style="margin-right: 10px;">
-  <img src="https://yt3.googleusercontent.com/s4pwxp5c2n-jMytCDPeNST5Cgd-LkPztvhZLuR2Z9zVQ2LPURTeG3bjAv4vq9xeAIOOXU7Zd=s160-c-k-c0x00ffffff-no-rj" alt="Additional Logo" width="45" height="40" style="margin-right:20px;">
+  <img src="https://yt3.googleusercontent.com/-dIRUkS2zftl6Je2f658ZrhcVPW27eWb8Ur74Mm_n6Zuu41PjaVy_KO8qiIm3tvekAb2DS62DA=s160-c-k-c0x00ffffff-no-rj" alt="Davison Boys Logo" width="45" height="40" style="margin-right:20px;">
 </a>
 </div>
 <br>
