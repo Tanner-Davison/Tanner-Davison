@@ -1,10 +1,3 @@
-
-
-## About me 👋 
-
-***Fullstack Software Developer @*** *Vasion* & *Printerlogic*
-
-
 # 👋 Hey there, I'm Tanner Davison!
 
 🚀 Full Stack Software Developer with a passion for cracking open tech and seeing what makes it tick. While I craft slick web experiences with JavaScript and React, my heart races when I dive into the raw metal of low-level programming.
