@@ -5,28 +5,38 @@
 ***Fullstack Software Developer @*** *Vasion* & *Printerlogic*
 
 
-👋 Hey there, I'm Tanner Davison!
+# 👋 Hey there, I'm Tanner Davison!
+
 🚀 Full Stack Software Developer with a passion for cracking open tech and seeing what makes it tick. While I craft slick web experiences with JavaScript and React, my heart races when I dive into the raw metal of low-level programming.
+
 💡 I'm that dev who can't resist exploring how things work under the hood. From contributing to open source to making technology more accessible, I'm all about pushing boundaries and solving complex puzzles.
+
 🔧 Building software isn't just my job – it's my playground for innovation and exploration. Let's build something extraordinary together.
-🎯 Sweet Spot:
+
+## 🎯 Sweet Spot:
 Frontend finesse meets backend muscle | High-level elegance meets low-level mastery | Open source enthusiast
 
-<div>
- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Icon-Vim.svg/384px-Icon-Vim.svg.png?20100125062842" width="16" height="16" alt="Vim Logo" style="vertical-align: bottom;">
-<strong>Neovim</strong>: No other way to program. check out my <a href="https://github.com/Tanner-Davison/Lua-Configuration">Lua Repository</a>. Feel free to take what you need! <br>
-</div>
-<br>
-<strong>🚀 Hobbies: </strong>
-Building embedded systems with Arduino, exploring electronics, and creating IoT solutions
-Developing CLI tools and automation utilities to enhance developer workflows
-Crafting modern web applications with focus on seamless user experiences and scalable data architecture
+## 🛠️ Dev Environment
 
-**Recommended Books: 📚**
-- 📖 **Design Patterns** by: *The gang of four*
-- 📖 **C++ Primer**: *Fifth Edition*
-- 📖 **Professional C++**: *6th Edition*
-- 📖 **Algorithms**: *by Panos Louridas*
+<div align="center">
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Icon-Vim.svg/384px-Icon-Vim.svg.png?20100125062842" width="20" height="20" alt="Vim Logo" style="vertical-align: middle;">
+ <strong>Neovim Enthusiast</strong>
+</div>
+
+> "Once you go Vim, you never go back!" Check out my customized [Lua Configuration](https://github.com/Tanner-Davison/Lua-Configuration) - Feel free to steal some magic! ✨
+
+## 🎯 What Drives Me
+
+- 🔧 **Hardware Hacking**: Building embedded systems with Arduino, diving into electronics, and crafting IoT solutions
+- ⚡ **Developer Tools**: Creating CLI wizardry and automation spells to make dev life magical
+- 🌐 **Web Crafting**: Architecting modern web experiences with a focus on scalability and that "wow" factor
+
+## 📚 Books That Shaped My Journey
+
+- 🏛️ **Design Patterns** - *The Gang of Four's Timeless Classic*
+- 🎯 **C++ Primer** (5th Edition) - *The Deep Dive into C++*
+- 💪 **Professional C++** (6th Edition) - *Mastering Modern C++*
+- 🧮 **Algorithms** by Panos Louridas - *The Art of Problem Solving*
 
 ## Stats
  
