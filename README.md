@@ -13,7 +13,7 @@ Frontend finesse meets backend muscle | High-level elegance meets low-level mast
 
 
 <div align="center">
- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Icon-Vim.svg/384px-Icon-Vim.svg.png?20100125062842" width="50" height="50" alt="Vim Logo" style="vertical-align: middle;">
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Icon-Vim.svg/384px-Icon-Vim.svg.png?20100125062842" width="75" height="75" alt="Vim Logo" style="vertical-align: middle;">
  <br/>
  <strong>Neovim Enthusiast</strong>
 </div>
