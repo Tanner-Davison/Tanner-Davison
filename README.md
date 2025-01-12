@@ -5,9 +5,12 @@
 ***Fullstack Software Developer @*** *Vasion* & *Printerlogic*
 
 
-Welcome,
-I'm Tanner Davison, a Full Stack Software Developer who's passionate about building software and exploring new technologies. I love diving deep into code and learning how things work under the hood. I'm enthusiastic about contributing to open source projects and making a positive impact on the developer community.
-While I primarily work with JavaScript frameworks like React, my true excitement comes from exploring lower-level programming. There's something special about stepping away from high-level abstractions and getting hands-on with the foundational layers of software development.
+👋 Hey there, I'm Tanner Davison!
+🚀 Full Stack Software Developer with a passion for cracking open tech and seeing what makes it tick. While I craft slick web experiences with JavaScript and React, my heart races when I dive into the raw metal of low-level programming.
+💡 I'm that dev who can't resist exploring how things work under the hood. From contributing to open source to making technology more accessible, I'm all about pushing boundaries and solving complex puzzles.
+🔧 Building software isn't just my job – it's my playground for innovation and exploration. Let's build something extraordinary together.
+🎯 Sweet Spot:
+Frontend finesse meets backend muscle | High-level elegance meets low-level mastery | Open source enthusiast
 
 <div>
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Icon-Vim.svg/384px-Icon-Vim.svg.png?20100125062842" width="16" height="16" alt="Vim Logo" style="vertical-align: bottom;">
