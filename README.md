@@ -39,6 +39,7 @@ Frontend finesse meets backend muscle | High-level elegance meets low-level mast
 - 🎯 **C++ Primer** (5th Edition) - *The Deep Dive into C++*
 - 💪 **Professional C++** (6th Edition) - *Mastering Modern C++*
 - 🧮 **Algorithms** by Panos Louridas - *The Art of Problem Solving*
+- ... open to suggestions!
 
 ## Stats
  
