@@ -17,6 +17,8 @@ Frontend finesse meets backend muscle | High-level elegance meets low-level mast
  <br/>
  <strong>Neovim Enthusiast</strong>
 </div>
+<br/>
+
 
 > "Once you go Vim, you never go back!" Check out my customized [Lua Configuration](https://github.com/Tanner-Davison/Lua-Configuration) - Feel free to steal some magic! ✨
 
