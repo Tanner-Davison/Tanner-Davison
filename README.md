@@ -9,7 +9,8 @@
 ## 🎯 Sweet Spot:
 Frontend finesse meets backend muscle | High-level elegance meets low-level mastery | Open source enthusiast
 
-## 👨‍🎓 Always a student
+## 👨‍🎓 Mentality
+Always a student
 
 ## 🛠️ Dev Environment
 
