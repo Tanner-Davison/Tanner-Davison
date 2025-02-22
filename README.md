@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Tanner Davison!
 
-🚀 Full Stack Software Developer with a passion for cracking open tech and seeing what makes it tick. While I craft slick web experiences with JavaScript and React, my heart races when I dive into the raw metal of low-level programming.
+🚀 Full Stack Software Developer with a passion for cracking open tech and seeing what makes it tick. While I craft slick web experiences with JavaScript and React, my heart truly races when I dive into low-level programming. 
 
 💡 I'm that dev who can't resist exploring how things work under the hood. From contributing to open source to making technology more accessible, I'm all about pushing boundaries and solving complex puzzles.
 
@@ -8,6 +8,8 @@
 
 ## 🎯 Sweet Spot:
 Frontend finesse meets backend muscle | High-level elegance meets low-level mastery | Open source enthusiast
+
+## 👨‍🎓 Always a student
 
 ## 🛠️ Dev Environment
 
