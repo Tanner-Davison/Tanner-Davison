@@ -37,6 +37,7 @@ Always a student
 - 🎯 **C++ Primer** (5th Edition) - *The Deep Dive into C++*
 - 💪 **Professional C++** (6th Edition) - *Mastering Modern C++*
 - 🧮 **Algorithms** by Panos Louridas - *The Art of Problem Solving*
+- 🎲 **Game Engine Architecture** by Jason Gregory -  *Third Edition* 
 - ... open to suggestions!
 
 ## Stats
