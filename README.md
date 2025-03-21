@@ -42,7 +42,7 @@ Always a student
 
 ## Stats
  
-<img src="https://streak-stats.demolab.com?user=Tanner-Davison&theme=highcontrast" alt = "Your Github Stats"/>
+<img src="https://streak-stats.demolab.com?user=Tanner-Davison&theme=dark" alt = "Your Github Stats"/>
 
 [comment]: <> (<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanner-Davison&layout=compact&hide=makefile" alt="Top-Langs"/>)
 <img src="https://github-readme-stats.vercel.app/api?username=Tanner-Davison&show_icons=true&theme=highcontrast" alt="Your GitHub Stats" /> 
