@@ -10,7 +10,7 @@
 Frontend finesse meets backend muscle | High-level elegance meets low-level mastery | Open source enthusiast
 
 ## 👨‍🎓 My Mentality
-Always a student
+Always be a student. "The most powerful tool a developer has is not their code, but their willingness to delete it."
 
 ## 🛠️ Dev Environment
 
