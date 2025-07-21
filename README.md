@@ -146,13 +146,13 @@ Always be a student. "The most powerful tool a developer has is not their code, 
 ## CMS
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <!-- WordPress -->
-  <img src="https://static-00.iconduck.com/assets.00/wordpress-icon-2048x2048-nw66awj8.png" width="40" height="40" alt="WordPress" style="margin-right: 10px;">
+  <img src="https://avatars.githubusercontent.com/u/276006?s=48&v=4" width="40" height="40" alt="WordPress" style="margin-right: 10px;">
   <!-- DatoCMS -->
   <img src="https://avatars.githubusercontent.com/u/19649794?s=200&v=4" width="40" height="40" alt="DatoCMS" style="margin-right: 10px;"
   <!-- Contentful -->
   <img src="https://avatars.githubusercontent.com/u/472182?s=200&v=4" width="40" height="40" alt="Contentful" style="margin-right: 10px;">
  <!-- Story Blok -->
-  <img src="https://yt3.googleusercontent.com/9P1WydOE3FI4mA8h9Vu7l45M__HifPEbqq4WmxAij2QqMCje-ltsbZKwMNE2XhREesCaXDlw=s160-c-k-c0x00ffffff-no-rj" width="40" height="40" alt="Contentful" style="margin-right: 10px;">
+  <img src="https://avatars.githubusercontent.com/u/13880908?s=200&v=4" width="40" height="40" alt="Contentful" style="margin-right: 10px;">
 </div>
 
 
