@@ -60,11 +60,7 @@ Always be a student. "The most powerful tool a developer has is not their code, 
   </a>
   <div> 
     
-  <h3>Vasion Print (printerlogic)</h3>
-    
-  <a href="https://printerlogic.com/" style="text-decoration: none; color: transparent; margin-right: 10px;">
-    <img src="https://media.licdn.com/dms/image/v2/D560BAQEXVY1CvHU93w/company-logo_100_100/company-logo_100_100/0/1727213110207/printerlogic_logo?e=1736380800&v=beta&t=N-UrCrqGegwo1Smdk8jgN-HpzuBGDAI1D6ccwcMNzDE" alt="PrinterLogic" width="40" height="40"style="margin-right: 10px;">
-  </a>
+  
   <h3>The Davison Boys</h3>
 <a href="https://www.youtube.com/channel/UCqbI028CizpePe9UQ-Mvt5Q" style="margin-right: 10px;">
   <img src="https://yt3.googleusercontent.com/-dIRUkS2zftl6Je2f658ZrhcVPW27eWb8Ur74Mm_n6Zuu41PjaVy_KO8qiIm3tvekAb2DS62DA=s160-c-k-c0x00ffffff-no-rj" alt="Davison Boys Logo" width="45" height="40" style="margin-right:20px;">
