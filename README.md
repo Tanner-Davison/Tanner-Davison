@@ -134,7 +134,7 @@ Always be a student. "The most powerful tool a developer has is not their code, 
   <!-- Gatsby -->
   <img src="https://avatars.githubusercontent.com/u/12551863?s=200&v=4" width="40" height="40" alt="Gatsby" style="margin-right: 10px;">
   <!-- Next.js -->
-  <img src="https://cdn.brandfetch.io/id2alue-rx/w/400/h/400/theme/dark/icon.jpeg?c=1bx1737902252605id64Mup7acQLLSRRnH&t=1714556222178" width="40" height="40" alt="Next.js" style="margin-right: 10px;">
+  <img src="https://avatars.githubusercontent.com/u/14985020?s=48&v=4" width="40" height="40" alt="Next.js" style="margin-right: 10px;">
   <!-- Cmake -->
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/CMake-logo-triangle-high-res.png/900px-CMake-logo-triangle-high-res.png?20110217185244" width="40" height="40" alt="CMAKE" style="margin-right: 10px;">
   <!-- GSAP -->
