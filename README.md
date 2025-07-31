@@ -39,6 +39,7 @@ Always be a student. "The most powerful tool a developer has is not their code, 
 - 🧮 **Algorithms** by Panos Louridas - *The Art of Problem Solving*
 - 🎲 **Game Engine Architecture** (Third Edition) by Jason Gregory
 - 🪶 **Effective C++**( Third Edition) by Scott Meyers
+- 🔧 **The C++ Standard Library** (2nd Edition) by Nicolai M. Josuttis - *A Tutorial and Reference*
 - ... open to suggestions!
 
 ## Stats
