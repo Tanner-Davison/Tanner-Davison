@@ -38,7 +38,7 @@ Always be a student. "The most powerful tool a developer has is not their code, 
 - 💪 **Professional C++** (6th Edition) - *Mastering Modern C++*
 - 🧮 **Algorithms** by Panos Louridas - *The Art of Problem Solving*
 - 🎲 **Game Engine Architecture** (Third Edition) by Jason Gregory
-- [toast] **Effective C++**( Third Edition) by Scott Meyers
+- 🪶 **Effective C++**( Third Edition) by Scott Meyers
 - ... open to suggestions!
 
 ## Stats
