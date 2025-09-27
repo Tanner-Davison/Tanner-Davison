@@ -22,6 +22,7 @@ Always be a student. "The most powerful tool a developer has is not their code, 
 </div>
 <br/>
 
+[![Tanners GitHub stats](https://github-readme-stats.vercel.app/api?username=tanner-davison)](https://github.com/tanner-davison/github-readme-stats)
 
 > "Once you go Vim, you never go back!" Check out my customized [Lua Configuration](https://github.com/Tanner-Davison/Lua-Configuration) - Feel free to steal some magic! ✨
 
