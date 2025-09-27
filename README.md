@@ -49,7 +49,6 @@ Always be a student. "The most powerful tool a developer has is not their code, 
 <img src="https://github-readme-stats.vercel.app/api?username=Tanner-Davison&show_icons=true&theme=highcontrast" alt="Your GitHub Stats" /> 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Tanner-Davison&theme=darkhub&column=5&margin-w=70&margin-h=15&no-bg=true&no-frame=true&rank=SECRET,SSS,SS,S,A,AA,AAA,B,BB,BBB, )](https://github.com/ryo-ma/github-profile-trophy)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/tanner-davison/github-readme-stats)
 ## Current Organizations
 
 [![Full-Stack Developer: Vasion/Printerlogic](https://img.shields.io/badge/Full--Stack_Developer:-Vasion/Printerlogic-5B3D8E?style=plastic)](https://vasion.com)
