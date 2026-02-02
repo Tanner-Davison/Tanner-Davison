@@ -43,7 +43,9 @@ Always be a student. "The most powerful tool a developer has is not their code, 
 - ... open to suggestions!
 
 ## Stats
-<img src="https://github-readme-stats.vercel.app/api?username=Tanner-Davison&show_icons=true&theme=highcontrast" alt="Your GitHub Stats" /> 
+<!-- REMOVED <img src="https://github-readme-stats.vercel.app/api?username=Tanner-Davison&show_icons=true&theme=highcontrast" alt="Your GitHub Stats" /> -->
+
+![GitHub stats](https://github-readme-stats-five-zeta-59.vercel.app/api?username=Tanner-Davison&show_icons=true&theme=radical)
 
 [![trophy](https://github-profile-trophy-nine-rust.vercel.app/?username=Tanner-Davison&theme=darkhub&column=5&margin-w=70&margin-h=15&no-bg=true&no-frame=true&rank=SECRET,SSS,SS,S,A,AA,AAA,B,BB,BBB, )](https://github-profile-trophy-nine-rust.vercel.app/)
 ## Current Organizations
