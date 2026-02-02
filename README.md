@@ -84,7 +84,7 @@ Always be a student. "The most powerful tool a developer has is not their code, 
   <!-- JavaScript -->
   <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/javascript.svg" width="40" height="40" alt="JavaScript">
  <!-- VimScript -->
- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Icon-Vim.svg/384px-Icon-Vim.svg.png?20100125062842" width="40" height="40" alt="Vim-Script">
+ <img src="https://github.com/ShayHill/vimlogo/raw/main/output/vimlogo.png" width="40" height="40" alt="Vim-Script">
 </div>
 
 ## FrontEnd
@@ -132,7 +132,7 @@ Always be a student. "The most powerful tool a developer has is not their code, 
   <!-- Next.js -->
   <img src="https://avatars.githubusercontent.com/u/14985020?s=48&v=4" width="40" height="40" alt="Next.js" style="margin-right: 10px;">
   <!-- Cmake -->
-   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/CMake-logo-triangle-high-res.png/900px-CMake-logo-triangle-high-res.png?20110217185244" width="40" height="40" alt="CMAKE" style="margin-right: 10px;">
+   <img src="https://github.com/giladreich/cmake-logger/raw/master/media/logo.png" width="40" height="40" alt="CMAKE" style="margin-right: 10px;">
   <!-- GSAP -->
   <img src="https://avatars.githubusercontent.com/u/2386673?s=200&v=4" width="40" height="40" alt="GSAP" style="margin-right: 10px;" style="margin-right: 10px;">
   <!--Unreal Engine 5 -->
