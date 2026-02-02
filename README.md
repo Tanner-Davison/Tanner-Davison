@@ -107,11 +107,11 @@ Always be a student. "The most powerful tool a developer has is not their code, 
   <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/frameworks/nodejs.svg" width="40" height="40" alt="Node.js">
   <!-- JavaScript -->
   <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/javascript.svg" width="40" height="40" alt="JavaScript">
-</div>
   <!-- C++ -->
   <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/c%2B%2B.svg" width="40" height="40" alt="C++">
     <!-- Python -->
   <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/python.svg" width="40" height="40" alt="Python">
+  </div>
 
 ## Database
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
@@ -123,7 +123,7 @@ Always be a student. "The most powerful tool a developer has is not their code, 
   <img src="https://user-images.githubusercontent.com/24623425/36042969-f87531d4-0d8a-11e8-9dee-e87ab8c6a9e3.png" width="40" height="40" alt="PostgreSQL">
   <!-- Firebase -->
   <img src="https://avatars.githubusercontent.com/u/1335026?s=200&v=4" width="40" height="40" alt="Firebase">
-</div>
+
 
 ## Frameworks / Tools
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
