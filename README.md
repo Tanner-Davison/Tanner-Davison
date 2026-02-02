@@ -16,7 +16,7 @@ Always be a student. "The most powerful tool a developer has is not their code, 
 
 
 <div align="center">
- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Icon-Vim.svg/384px-Icon-Vim.svg.png?20100125062842" width="75" height="75" alt="Vim Logo" style="vertical-align: middle;">
+ <img src="https://camo.githubusercontent.com/ce9153e633cb1290e840de5cf9e04f1a986bf2dc5c0b9ba965311ab5818071a5/68747470733a2f2f662e636c6f75642e6769746875622e636f6d2f6173736574732f3231313236322f323233373936332f32336562643565342d396264332d313165332d393136342d3262386165646165393032302e706e67" width="75" height="75" alt="Vim Logo" style="vertical-align: middle;">
  <br/>
  <strong>Neovim Enthusiast</strong>
 </div>
