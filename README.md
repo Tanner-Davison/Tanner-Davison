@@ -73,18 +73,20 @@ Always be a student. "The most powerful tool a developer has is not their code, 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <!-- C -->
   <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/c.svg" width="40" height="40" alt="C">
+   <!-- C++ -->
+  <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/c%2B%2B.svg" width="40" height="40" alt="C++">
  <!-- Lua  -->
   <img src="https://raw.githubusercontent.com/manuelbieh/logo-file-icons/6a172ce5a46ecfafe5db7f2ec624f4602cde9b8e/icons/lua.svg" width="40" height="40" alt="Lua">
-  <!-- C++ -->
-  <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/c%2B%2B.svg" width="40" height="40" alt="C++">
-  <!-- Python -->
-  <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/python.svg" width="40" height="40" alt="Python">
   <!-- Java -->
   <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/java.svg" width="40" height="40" alt="Java">
   <!-- JavaScript -->
   <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/javascript.svg" width="40" height="40" alt="JavaScript">
+   <!-- Python -->
+  <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/python.svg" width="40" height="40" alt="Python">
  <!-- VimScript -->
  <img src="https://github.com/ShayHill/vimlogo/raw/main/output/vimlogo.png" width="40" height="40" alt="Vim-Script">
+ <!-- SDL2 -->
+ <img src="https://www.libsdl.org/media/SDL_logo.png" alt="SDL2" height="40" width="40">
 </div>
 
 ## FrontEnd
@@ -137,6 +139,9 @@ Always be a student. "The most powerful tool a developer has is not their code, 
   <img src="https://avatars.githubusercontent.com/u/2386673?s=200&v=4" width="40" height="40" alt="GSAP" style="margin-right: 10px;" style="margin-right: 10px;">
   <!--Unreal Engine 5 -->
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUf3R8LFTgqC_8mooGEx7Fpas9kHu8OUxhLA&s" width="40" height="40" alt="UE5" style="margin-right: 10px;">
+ <!-- Fast API python -->
+ <img src="https://fastapi.tiangolo.com/img/icon-white.svg" alt="fast-api" width="40" height="40">
+ 
 </div>
 
 ## CMS
